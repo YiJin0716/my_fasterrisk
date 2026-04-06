@@ -1,0 +1,2062 @@
+patient-id,Age,Sex,Race,Smoking Status (Current/ Former/ Never/ Unknown),Lung-RADS score,"Lung cancer diagnosis and timing, if applicable","Screening detected cancer? (Yes=1, No=0)",Lung-RADS version,At least 1 year follow up?,annotation_group
+DLCS_0682,72,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1614,77,Female,Black or African American,Former,3,,,1.1,Yes,Group-2
+DLCS_1615,71,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1319,58,Male,Caucasian/White,Former,2,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_0931,62,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1147,64,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0001,73,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1135,74,Female,Caucasian/White,Current,2,,,1.1,No,Group-3
+DLCS_0229,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0819,73,Male,Caucasian/White,Unknown,4A,,,1.1,No,Group-4
+DLCS_0002,68,Male,Other,Former,2,,,1.1,Yes,Group-2
+DLCS_1416,64,Male,Caucasian/White,Former,2,Cancer DX 2 years after screening,0.0,1.1,Yes,Group-1
+DLCS_1616,69,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_1617,75,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1059,60,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0107,75,Female,Black or African American,Unknown,2,,,1.1,No,Group-2
+DLCS_0003,56,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1499,65,Female,Black or African American,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1618,58,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0004,70,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-2
+DLCS_0423,64,Female,Black or African American,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-3
+DLCS_0005,73,Female,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_0108,57,Female,Caucasian/White,Unknown,4A,,,1.1,No,Group-4
+DLCS_0006,77,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-4
+DLCS_0007,57,Female,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1091,65,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1619,68,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0817,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-4
+DLCS_0008,70,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1620,73,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0009,79,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0010,66,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1060,75,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1621,74,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0011,56,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1061,77,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0012,77,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-4
+DLCS_1101,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-4
+DLCS_0013,76,Male,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_1622,62,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1623,77,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1624,68,Male,Black or African American,Current,2,,,1.0,Yes,Group-4
+DLCS_1461,58,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1571,70,Male,Other,Former,2,,,1.1,No,Group-4
+DLCS_0014,63,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_1159,70,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1625,68,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-4
+DLCS_1626,78,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0413,59,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-4
+DLCS_0301,70,Male,Other,Unknown,4A,,,1.0,Yes,Group-1
+DLCS_0015,74,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1062,71,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0326,67,Female,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_0016,65,Male,Black or African American,Former,3,,,1.1,Yes,Group-1
+DLCS_0407,61,Male,Black or African American,Current,3,,,1.1,No,Group-3
+DLCS_0818,55,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-4
+DLCS_0017,71,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-4
+DLCS_1417,59,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0018,60,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0019,66,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1627,67,Male,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_0594,59,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0598,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_1274,60,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-3
+DLCS_0020,70,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0820,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-4
+DLCS_1063,68,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-1
+DLCS_1418,67,Male,Caucasian/White,Current,4A,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-1
+DLCS_0655,69,Male,Black or African American,Current,4B,,,1.0,Yes,Group-1
+DLCS_0021,68,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1628,71,Male,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0667,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1064,68,Female,Caucasian/White,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-3
+DLCS_0783,73,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0022,55,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0784,56,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1067,74,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0821,60,Male,Caucasian/White,Current,4X,,,1.0,Yes,Group-4
+DLCS_0024,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0785,69,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0025,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0414,69,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-4
+DLCS_0023,63,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0110,56,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_1102,59,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-4
+DLCS_0026,64,Female,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_0027,72,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_0028,70,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_0040,71,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1629,67,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1065,69,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1561,63,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-3
+DLCS_0029,60,Female,Caucasian/White,Former,4A,,,1.1,No,Group-3
+DLCS_0030,77,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1630,56,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0031,57,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1631,75,Female,Caucasian/White,Unknown,4B,,,1.1,No,Group-1
+DLCS_0032,60,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0033,76,Female,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_0034,74,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_0035,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1419,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1632,70,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1633,58,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-2
+DLCS_0036,71,Female,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_0415,62,Female,Black or African American,Current,3,,,1.0,Yes,Group-4
+DLCS_0037,61,Female,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_1634,71,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0038,74,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0039,70,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1068,70,Female,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_1635,67,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0041,63,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1069,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1420,54,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0416,61,Male,Black or African American,Former,4A,,,1.1,Yes,Group-4
+DLCS_0042,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0043,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1636,71,Female,Black or African American,Current,1,,,1.0,Yes,Group-1
+DLCS_0044,74,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0045,73,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0046,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1070,60,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1637,64,Male,Black or African American,Former,2,,,1.1,No,Group-2
+DLCS_0047,76,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1071,67,Female,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_1638,66,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-4
+DLCS_1072,55,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0048,66,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0049,78,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1639,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0050,69,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0424,70,Female,Black or African American,Current,3,,,1.0,Yes,Group-4
+DLCS_1421,68,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0425,55,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-3
+DLCS_0761,58,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1073,72,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0051,72,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0052,73,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_0053,62,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0054,53,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1640,66,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0055,73,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0056,74,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1641,59,Female,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_1074,75,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0057,64,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1642,75,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1422,64,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0058,65,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1423,67,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1643,62,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1075,75,Male,Caucasian/White,Current,1,,,1.0,Yes,Group-1
+DLCS_1644,57,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_0059,76,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0060,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1206,73,Male,Black or African American,Former,4A,,,1.0,Yes,Group-3
+DLCS_0061,70,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0062,65,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1076,62,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0063,63,Female,Black or African American,Unknown,3,,,1.1,No,Group-1
+DLCS_1424,58,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0064,59,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0065,62,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1077,77,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0066,74,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1645,73,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1078,60,Female,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_0067,59,Female,Black or African American,Current,3,,,1.1,No,Group-2
+DLCS_1646,75,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1647,72,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0068,75,Female,Caucasian/White,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_0069,72,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1648,61,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1649,75,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1425,62,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_0426,65,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,No,Group-4
+DLCS_0070,77,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1650,56,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1426,72,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1066,72,Female,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-3
+DLCS_0071,76,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_1427,76,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1080,65,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0072,72,Male,Black or African American,Current,4B,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-4
+DLCS_1651,58,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1652,72,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1653,78,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_0427,69,Male,Black or African American,Current,3,,,1.1,Yes,Group-3
+DLCS_0073,60,Male,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_0074,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1081,65,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-2
+DLCS_1654,64,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1428,77,Female,Caucasian/White,Former,4A,,,1.1,Yes,Group-2
+DLCS_0428,65,Female,Caucasian/White,Former,4B,,,1.1,No,Group-4
+DLCS_1500,64,Male,Caucasian/White,Former,4B,,,1.1,No,Group-3
+DLCS_0429,64,Female,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0075,74,Female,Caucasian/White,Former,4A,,,1.1,No,Group-3
+DLCS_0076,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0077,72,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1655,71,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1656,57,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1657,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0078,64,Male,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0430,67,Female,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0079,71,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1501,70,Female,Black or African American,Current,3,,,1.1,No,Group-3
+DLCS_1658,62,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0080,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0823,68,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1429,74,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0081,64,Male,Black or African American,Current,4B,,,1.1,Yes,Group-2
+DLCS_1659,63,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_0082,62,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1430,71,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1082,63,Female,Black or African American,Current,3,,,1.1,Yes,Group-2
+DLCS_1083,61,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1660,64,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1084,56,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1661,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0431,75,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-4
+DLCS_0083,60,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1662,62,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_1085,77,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1431,66,Female,Black or African American,Current,4B,,,1.1,No,Group-2
+DLCS_0084,69,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0085,61,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0086,76,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1663,68,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0087,63,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0432,70,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-4
+DLCS_1086,59,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0088,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0089,59,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1432,76,Female,Caucasian/White,Former,4B,,,1.0,Yes,Group-3
+DLCS_0090,61,Female,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_1087,59,Female,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1664,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1088,68,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1665,65,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0091,73,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1666,74,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1089,74,Female,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_1090,70,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1207,58,Male,Black or African American,Current,3,,,1.0,Yes,Group-3
+DLCS_1667,70,Male,Black or African American,Current,4A,,,1.0,Yes,Group-1
+DLCS_1668,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1669,56,Male,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_1092,68,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1208,60,Female,Caucasian/White,Current,4B,,,1.1,No,Group-3
+DLCS_1670,77,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-2
+DLCS_0092,62,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0093,60,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1093,55,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1094,71,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0094,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0095,77,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1095,65,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1433,64,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0096,65,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0097,74,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1434,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1671,69,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0098,71,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0099,70,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0100,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1096,67,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1097,66,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1672,59,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0101,68,Female,Black or African American,Current,4X,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-1
+DLCS_0102,69,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1673,57,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-2
+DLCS_1098,70,Female,Caucasian/White,Unknown,2,,,1.1,Yes,Group-2
+DLCS_1099,73,Female,Black or African American,Unknown,2,,,1.1,No,Group-2
+DLCS_0103,56,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0104,64,Male,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1674,72,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1100,69,Female,Black or African American,Former,2,,,1.1,Yes,Group-2
+DLCS_1675,71,Male,Caucasian/White,Current,3,Cancer DX between 1 and 2 years of screening,1.0,1.1,Yes,Group-2
+DLCS_1435,62,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0105,74,Female,Black or African American,Former,2,,,1.1,Yes,Group-2
+DLCS_0111,71,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-3
+DLCS_0112,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0113,69,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1103,70,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0114,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0115,63,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-2
+DLCS_1436,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0116,56,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0433,68,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_0118,74,Male,Other,Former,2,,,1.1,No,Group-2
+DLCS_1676,60,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1677,64,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1678,58,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1679,67,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0434,64,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-4
+DLCS_1680,73,Male,Caucasian/White,Current,2,,,1.1,No,Group-3
+DLCS_1438,75,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0117,61,Female,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_1681,58,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-3
+DLCS_0119,77,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1104,68,Female,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_1682,71,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0189,73,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0106,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1437,72,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_0120,70,Male,Caucasian/White,Former,3,,,1.1,No,Group-3
+DLCS_1106,65,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0121,74,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0122,68,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0435,70,Male,Caucasian/White,Current,4X,,,1.0,Yes,Group-4
+DLCS_1439,63,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1683,68,Male,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_1107,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0436,68,Male,Black or African American,Current,3,,,1.1,No,Group-3
+DLCS_1108,67,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-2
+DLCS_0123,71,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0124,56,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0125,73,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0126,67,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0127,58,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-3
+DLCS_1109,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1202,66,Male,Black or African American,Unknown,2,,,1.1,No,Group-4
+DLCS_0129,71,Male,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1684,71,Female,Black or African American,Former,2,,,1.0,Yes,Group-2
+DLCS_0130,64,Male,Black or African American,Current,2,,,1.1,No,Group-3
+DLCS_1110,68,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0132,60,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-3
+DLCS_0133,75,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0134,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1111,71,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0135,68,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0137,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0138,77,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0139,72,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_0417,61,Female,Black or African American,Current,2,,,1.0,Yes,Group-4
+DLCS_1685,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0418,60,Female,Caucasian/White,Current,4B,,,1.1,No,Group-4
+DLCS_0140,65,Male,Black or African American,Former,4A,,,1.1,Yes,Group-1
+DLCS_1112,57,Female,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_0141,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1440,71,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1686,70,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_1441,63,Male,Black or African American,Former,4A,,,1.1,Yes,Group-1
+DLCS_0142,59,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0143,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0437,69,Male,Caucasian/White,Former,4B,,,1.1,No,Group-3
+DLCS_0144,69,Female,Caucasian/White,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_0145,65,Female,Caucasian/White,Current,2,,,1.1,No,Group-4
+DLCS_0146,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0147,68,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1687,62,Male,Other,Current,4A,,,1.0,Yes,Group-4
+DLCS_1688,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1689,75,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0148,75,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0149,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0150,67,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1690,58,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0438,70,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1113,65,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0151,57,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1114,65,Female,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_1691,70,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0152,66,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,0.0,1.0,Yes,Group-1
+DLCS_0622,55,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1442,71,Male,Black or African American,Current,4B,,,1.0,Yes,Group-4
+DLCS_0153,73,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0154,71,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0762,65,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0155,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1692,74,Female,Black or African American,Current,4A,,,1.1,No,Group-4
+DLCS_1693,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0156,76,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1115,70,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0157,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0158,76,Female,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_0763,62,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0159,74,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0160,69,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0161,67,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1331,72,Female,Black or African American,Former,4A,Cancer DX within 1 year of screening,0.0,1.0,Yes,Group-4
+DLCS_0162,56,Female,Caucasian/White,Former,4A,,,1.1,No,Group-3
+DLCS_0163,56,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-3
+DLCS_1443,59,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0164,89,Male,Black or African American,Former,2,,,1.0,Yes,Group-2
+DLCS_0165,75,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0166,75,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-4
+DLCS_1116,62,Female,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_1117,64,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1444,58,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0167,62,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1118,61,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0787,64,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1445,73,Female,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_0168,59,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1119,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1446,68,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_1120,66,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0764,61,Male,Caucasian/White,Former,4X,,,1.0,Yes,Group-1
+DLCS_1694,57,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1122,57,Female,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_0169,60,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1695,66,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0170,62,Male,Black or African American,Former,3,,,1.0,Yes,Group-2
+DLCS_0171,74,Female,Black or African American,Current,3,,,1.1,Yes,Group-3
+DLCS_0172,72,Male,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_0173,61,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0788,72,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-4
+DLCS_1696,62,Male,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1123,68,Female,Caucasian/White,Former,4B,,,1.1,No,Group-4
+DLCS_0174,70,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0175,58,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0176,63,Male,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1447,69,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_0177,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0178,70,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1697,60,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0179,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0180,66,Female,Black or African American,Current,2,,,1.1,No,Group-4
+DLCS_0181,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0182,70,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0183,71,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0184,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1448,63,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0185,69,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0186,66,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1124,59,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1698,69,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0187,75,Male,Black or African American,Current,4A,,,1.1,Yes,Group-1
+DLCS_0188,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0190,69,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-2
+DLCS_0191,67,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1699,67,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0192,70,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1449,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1450,58,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1700,64,Female,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_1451,69,Male,Black or African American,Former,2,,,1.1,No,Group-3
+DLCS_1125,67,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1452,74,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1126,69,Female,Black or African American,Current,4A,,,1.1,Yes,Group-1
+DLCS_0128,59,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1701,59,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0193,60,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1702,76,Female,Caucasian/White,Unknown,2,,,1.1,Yes,Group-2
+DLCS_0194,65,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1563,75,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1703,56,Male,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_1127,60,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1704,66,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-3
+DLCS_0195,64,Male,Black or African American,Current,3,,,1.1,Yes,Group-4
+DLCS_0196,73,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1204,58,Male,Black or African American,Current,3,,,1.1,Yes,Group-4
+DLCS_0789,67,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_0197,72,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0198,74,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1453,71,Female,Black or African American,Former,4A,,,1.0,Yes,Group-1
+DLCS_1705,62,Male,Black or African American,Former,4X,,,1.1,No,Group-1
+DLCS_1706,78,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0199,57,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0200,59,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1128,66,Male,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_1707,68,Female,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1129,65,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0201,68,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1708,64,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0202,62,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0203,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1130,73,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_1131,66,Female,Caucasian/White,Former,3,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_0204,57,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1709,62,Female,Black or African American,Current,3,,,1.1,No,Group-3
+DLCS_0205,77,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1710,71,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0206,68,Female,Black or African American,Current,3,,,1.0,Yes,Group-3
+DLCS_0207,72,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0208,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0209,76,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0109,78,Female,Caucasian/White,Former,4B,,,1.0,Yes,Group-4
+DLCS_1711,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0419,72,Male,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1132,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1133,59,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_1134,62,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0210,55,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0211,75,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-3
+DLCS_0420,68,Male,Black or African American,Current,4B,,,1.1,No,Group-4
+DLCS_1454,62,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0212,68,Female,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_1203,57,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-4
+DLCS_0213,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0214,73,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0215,76,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-3
+DLCS_1712,58,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0216,64,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0217,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1713,65,Female,Caucasian/White,Current,1,,,1.0,Yes,Group-1
+DLCS_1136,74,Male,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_1714,73,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-3
+DLCS_0218,62,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0219,66,Male,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_0220,59,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1455,75,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1483,66,Female,Caucasian/White,Unknown,4B,,,1.1,No,Group-4
+DLCS_1137,56,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0222,63,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0223,71,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1456,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0224,68,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0225,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0226,72,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0227,73,Male,Caucasian/White,Unknown,2,,,1.1,Yes,Group-1
+DLCS_1457,56,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0228,59,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1715,58,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0230,62,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_0816,70,Male,Black or African American,Current,4A,,,1.1,No,Group-4
+DLCS_0231,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1458,68,Female,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_1716,70,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1717,75,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0232,69,Female,Caucasian/White,Current,4A,Cancer DX between 1 and 2 years of screening,1.0,1.1,Yes,Group-1
+DLCS_1138,60,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0233,72,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0234,59,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0235,57,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1718,63,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1459,67,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1719,77,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0236,79,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0237,61,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0238,58,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0765,76,Male,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0239,68,Male,Black or African American,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0240,60,Male,Caucasian/White,Current,2,,,1.1,No,Group-3
+DLCS_0790,77,Female,Caucasian/White,Former,4B,,,1.0,Yes,Group-4
+DLCS_1720,71,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1721,60,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_1722,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1460,61,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0241,60,Male,Black or African American,Former,4B,,,1.1,No,Group-4
+DLCS_0242,70,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1723,72,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0243,73,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0244,73,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0245,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0246,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1139,75,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1140,73,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0815,66,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_0247,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0248,56,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0766,70,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1141,74,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0249,67,Female,Caucasian/White,Current,4A,Cancer DX between 1 and 2 years of screening,1.0,1.1,No,Group-1
+DLCS_0250,62,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-4
+DLCS_1724,60,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0251,73,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0252,61,Male,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1142,62,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0253,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1725,76,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0254,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1462,66,Female,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_1726,65,Female,Caucasian/White,Former,4B,,,1.0,Yes,Group-4
+DLCS_0255,67,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0256,71,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0257,75,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1727,60,Male,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_0258,64,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0259,58,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1143,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1728,59,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0260,65,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0261,63,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0262,78,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1729,63,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0263,66,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0264,64,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_1144,61,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0791,75,Female,Caucasian/White,Former,3,Cancer DX within 1 year of screening,1.0,1.1,No,Group-4
+DLCS_1730,65,Male,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_0265,57,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1731,64,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1145,59,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1732,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1146,65,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0266,58,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1463,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1148,67,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0267,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-3
+DLCS_1733,69,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_1464,60,Male,Caucasian/White,Unknown,4A,,,1.1,No,Group-1
+DLCS_1734,61,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1149,59,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1735,60,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1465,60,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0268,76,Female,Caucasian/White,Former,4A,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-4
+DLCS_1150,60,Male,Black or African American,Current,1,,,1.0,Yes,Group-2
+DLCS_0269,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0270,60,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1151,62,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1736,58,Female,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0271,70,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1737,73,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1152,58,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_1466,65,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0272,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1153,61,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1738,74,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1154,70,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0273,77,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1739,77,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0274,70,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0275,73,Female,Black or African American,Former,3,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1467,69,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0276,68,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0767,72,Female,Caucasian/White,Current,4B,,,1.1,No,Group-2
+DLCS_1740,57,Male,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1741,71,Male,Caucasian/White,Former,4B,,,1.1,No,Group-2
+DLCS_0277,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1468,64,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0278,70,Female,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_0279,74,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0814,57,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1469,61,Female,Caucasian/White,Current,4X,,,1.1,No,Group-2
+DLCS_0280,66,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0281,65,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0792,62,Male,Black or African American,Current,4A,,,1.1,No,Group-4
+DLCS_0282,60,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1470,66,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1742,65,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0283,64,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1155,72,Female,Other,Former,2,,,1.1,Yes,Group-1
+DLCS_0284,60,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0285,73,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1743,75,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0286,66,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0131,66,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_0287,60,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1744,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1156,56,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0288,67,Male,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_1745,61,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0289,57,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_0290,69,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0291,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1746,69,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-1
+DLCS_1747,68,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1569,62,Female,Other,Current,3,,,1.1,No,Group-4
+DLCS_1748,76,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1749,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1750,57,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1157,71,Female,Caucasian/White,Unknown,2,,,1.1,Yes,Group-2
+DLCS_1158,70,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1471,72,Female,Black or African American,Unknown,4B,,,1.0,Yes,Group-3
+DLCS_0292,73,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0293,61,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1751,56,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-3
+DLCS_0294,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0295,78,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0296,64,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1160,66,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0297,61,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_0298,67,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1752,67,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1472,65,Male,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0299,66,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1753,68,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0300,69,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1161,69,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1162,74,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0302,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0303,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1473,63,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1163,61,Female,Caucasian/White,Current,4X,,,1.0,Yes,Group-1
+DLCS_1754,59,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-3
+DLCS_0304,78,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-3
+DLCS_0305,66,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1474,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1755,67,Female,Caucasian/White,Unknown,4B,,,1.1,Yes,Group-4
+DLCS_1164,58,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1165,56,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0306,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0307,69,Male,Black or African American,Current,4A,,,1.0,Yes,Group-2
+DLCS_1756,73,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1757,71,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0308,72,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1166,75,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0309,68,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0310,68,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_0793,65,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_0794,73,Male,Black or African American,Current,4B,,,1.1,No,Group-4
+DLCS_0311,76,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1758,66,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1167,61,Male,Caucasian/White,Current,4X,,,1.1,Yes,Group-1
+DLCS_1759,65,Female,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_0312,69,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0313,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1475,75,Female,Black or African American,Former,3,,,1.1,No,Group-1
+DLCS_0314,64,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0315,71,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1760,73,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1761,64,Female,Black or African American,Former,4B,,,1.1,No,Group-1
+DLCS_1168,63,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_0795,60,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1762,62,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_1763,75,Male,Caucasian/White,Current,4A,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-1
+DLCS_1169,70,Female,Black or African American,Former,4B,,,1.0,Yes,Group-1
+DLCS_1476,73,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0316,75,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1170,62,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1477,61,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0317,75,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1478,78,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1479,70,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0318,64,Male,Black or African American,Current,4B,,,1.1,Yes,Group-4
+DLCS_0319,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0320,62,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0321,67,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1171,57,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1172,62,Female,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_1173,70,Female,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1079,60,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-4
+DLCS_0322,74,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0323,65,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1480,63,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0324,73,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0325,67,Female,Other,Unknown,2,,,1.1,No,Group-1
+DLCS_1764,70,Female,Caucasian/White,Current,2,Cancer DX between 1 and 2 years of screening,0.0,1.0,Yes,Group-1
+DLCS_1174,58,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1765,58,Male,Caucasian/White,Current,4A,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-4
+DLCS_1175,59,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1176,72,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0578,56,Female,Black or African American,Current,4B,,,1.0,Yes,Group-4
+DLCS_1766,71,Female,Black or African American,Current,2,,,1.0,Yes,Group-3
+DLCS_1767,62,Female,Black or African American,Current,3,,,1.1,Yes,Group-4
+DLCS_1768,75,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1769,67,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0327,57,Male,Caucasian/White,Current,4B,,,1.0,Yes,Group-3
+DLCS_0328,74,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1770,67,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-3
+DLCS_1177,58,Male,Caucasian/White,Current,4A,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-1
+DLCS_0329,68,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1481,75,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1771,73,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0330,64,Male,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0331,62,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0332,63,Female,Black or African American,Current,4X,,,1.1,No,Group-1
+DLCS_0333,79,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0334,68,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0335,67,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1772,63,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0336,74,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-3
+DLCS_0796,70,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-4
+DLCS_1773,74,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0337,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0338,59,Male,Caucasian/White,Unknown,1,,,1.1,No,Group-1
+DLCS_1774,65,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0339,66,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1178,70,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-3
+DLCS_1482,57,Female,Black or African American,Current,4A,,,1.1,No,Group-4
+DLCS_1179,72,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0340,59,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0341,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1775,76,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1180,74,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0342,73,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0343,58,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0344,57,Male,Other,Former,3,,,1.1,No,Group-1
+DLCS_0345,60,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1776,64,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0421,73,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0346,64,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0347,64,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1181,74,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0348,57,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0349,58,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1777,61,Male,Black or African American,Current,4B,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-1
+DLCS_0350,67,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0351,79,Female,Black or African American,Current,2,,,1.0,Yes,Group-3
+DLCS_0352,62,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1778,66,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1182,78,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0353,63,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1779,72,Male,Caucasian/White,Unknown,4A,,,1.1,No,Group-4
+DLCS_0354,66,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1780,64,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0355,60,Female,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1781,71,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1782,79,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1183,69,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1184,59,Male,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_1185,60,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1484,68,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1783,70,Female,Black or African American,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_1784,71,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-2
+DLCS_1785,79,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1186,63,Male,Black or African American,Former,2,,,1.1,No,Group-2
+DLCS_0356,70,Male,Other,Current,3,,,1.0,Yes,Group-1
+DLCS_0357,62,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0358,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0359,59,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1786,68,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0360,56,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1787,64,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0361,66,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0362,69,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1187,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0363,63,Male,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1188,63,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0364,67,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0365,77,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1485,60,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1189,64,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1486,61,Male,Other,Former,2,,,1.1,Yes,Group-1
+DLCS_1788,60,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-3
+DLCS_1487,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0366,73,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1789,69,Female,Black or African American,Current,3,,,1.1,No,Group-2
+DLCS_1190,64,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1790,59,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0367,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0797,56,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_1488,55,Female,Other,Current,2,,,1.1,Yes,Group-1
+DLCS_0368,71,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_1791,76,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1792,61,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0369,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1191,65,Male,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_1793,64,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1794,59,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1795,64,Female,Black or African American,Current,3,,,1.1,No,Group-2
+DLCS_1489,73,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0370,71,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0371,77,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-2
+DLCS_1796,70,Female,Black or African American,Former,4A,,,1.1,Yes,Group-1
+DLCS_1490,59,Male,Black or African American,Former,2,,,1.1,No,Group-3
+DLCS_0372,68,Male,Caucasian/White,Former,3,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-3
+DLCS_0373,62,Female,Black or African American,Former,2,,,1.0,Yes,Group-2
+DLCS_0374,72,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1797,72,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1798,77,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0375,71,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0376,60,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1799,63,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1800,74,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-2
+DLCS_0377,78,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1491,63,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1801,65,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0378,70,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1492,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0379,72,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-3
+DLCS_0380,60,Male,Black or African American,Current,3,,,1.1,No,Group-3
+DLCS_1192,60,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1193,70,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-3
+DLCS_1802,72,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-3
+DLCS_1493,60,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1803,69,Female,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_1804,77,Female,Caucasian/White,Former,3,Cancer DX between 1 and 2 years of screening,0.0,1.1,Yes,Group-1
+DLCS_1805,55,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_1494,68,Female,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_0381,66,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_0382,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0383,69,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_0384,68,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1806,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1807,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0385,76,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0386,69,Female,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_0387,63,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1808,74,Male,Caucasian/White,Former,4X,,,1.1,Yes,Group-3
+DLCS_0388,63,Female,Caucasian/White,Current,4X,,,1.1,Yes,Group-1
+DLCS_0389,67,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0390,78,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1495,63,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0391,62,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1809,70,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1565,77,Male,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_0798,61,Male,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_1810,61,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0392,76,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1194,64,Male,Black or African American,Current,2,,,1.1,No,Group-3
+DLCS_0393,67,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1320,74,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_0799,71,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-4
+DLCS_1195,69,Female,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_1811,64,Male,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_1812,63,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0394,68,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0395,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0396,74,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1813,56,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1196,71,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0397,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1197,67,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0398,66,Female,Black or African American,Former,4A,,,1.1,Yes,Group-1
+DLCS_0399,65,Female,Black or African American,Current,4A,,,1.0,Yes,Group-1
+DLCS_0400,60,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0401,67,Male,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_0402,64,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1814,68,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0403,61,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0404,78,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-3
+DLCS_1815,55,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1496,67,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1321,65,Male,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1497,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1198,61,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1498,68,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0405,74,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1816,58,Male,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0406,77,Male,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_1817,70,Female,Black or African American,Current,4B,,,1.0,Yes,Group-3
+DLCS_1199,71,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1313,65,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_0408,59,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0409,63,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-3
+DLCS_1200,66,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0410,78,Male,Black or African American,Former,3,,,1.0,Yes,Group-3
+DLCS_1201,68,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0411,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0412,74,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1818,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1819,66,Female,Caucasian/White,Unknown,4A,,,1.1,No,Group-1
+DLCS_1209,64,Male,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_1205,65,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1820,68,Male,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_1502,61,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1210,69,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-4
+DLCS_1821,67,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-3
+DLCS_1211,77,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_1822,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1823,75,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0439,79,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0440,69,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1824,75,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0441,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0442,67,Female,Black or African American,Former,3,,,1.0,Yes,Group-2
+DLCS_0443,64,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1212,70,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1503,73,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1825,67,Male,Caucasian/White,Former,3,,,1.1,No,Group-3
+DLCS_1504,60,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_0444,57,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1505,67,Female,Black or African American,Current,4X,,,1.0,Yes,Group-1
+DLCS_0445,59,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0446,77,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1826,76,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1506,72,Male,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_0448,73,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0449,78,Male,Black or African American,Former,4A,,,1.1,Yes,Group-2
+DLCS_1213,61,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1827,68,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0450,69,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1214,72,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1828,64,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0451,77,Male,Black or African American,Former,4B,,,1.0,Yes,Group-3
+DLCS_1507,62,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-2
+DLCS_0452,78,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1508,62,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_0453,67,Female,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_1215,71,Female,Caucasian/White,Former,4B,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-3
+DLCS_0454,62,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0455,68,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_1509,74,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1510,70,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_0456,74,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_1829,82,Female,Black or African American,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-2
+DLCS_1830,59,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1217,64,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0800,73,Male,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1831,75,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0457,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0458,71,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0459,60,Female,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_1832,62,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1833,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0460,67,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_1322,68,Male,Caucasian/White,Former,4B,,,1.1,No,Group-4
+DLCS_1834,62,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1218,63,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1219,58,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0461,65,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1835,74,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1511,61,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-2
+DLCS_1836,62,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1220,57,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1837,75,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1323,73,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0462,65,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0463,72,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1512,61,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0464,58,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1221,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0813,70,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-4
+DLCS_1222,71,Female,Other,Former,2,,,1.1,No,Group-1
+DLCS_1513,61,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0465,77,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0466,65,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-2
+DLCS_0467,70,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0468,70,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1223,59,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_1224,55,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1225,70,Male,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_1838,65,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0469,69,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1839,70,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_0470,77,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0471,62,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1840,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1841,65,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0472,74,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-1
+DLCS_0768,57,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1842,67,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1226,60,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1843,73,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-4
+DLCS_1844,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1845,68,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1314,73,Male,Black or African American,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_1846,56,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0473,65,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0474,62,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1847,59,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1514,59,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1848,72,Female,Black or African American,Current,4A,,,1.0,Yes,Group-1
+DLCS_0475,64,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0476,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1227,64,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0477,66,Female,Black or African American,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-4
+DLCS_1849,70,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1228,64,Male,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_0812,75,Male,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_0478,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1850,77,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0479,56,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0480,75,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0481,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1851,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0482,75,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1515,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0483,63,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1229,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0484,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0485,69,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0486,66,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0487,63,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0488,75,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0489,61,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0490,70,Female,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_0491,59,Female,Black or African American,Current,4B,,,1.1,Yes,Group-4
+DLCS_1516,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1852,57,Male,Black or African American,Current,3,,,1.0,Yes,Group-4
+DLCS_0769,65,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0492,60,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0493,66,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0494,69,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0495,69,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1517,60,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0496,61,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0497,74,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1562,77,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-4
+DLCS_1230,70,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0498,68,Female,Caucasian/White,Current,3,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-1
+DLCS_0499,56,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0447,75,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1216,69,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1231,56,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1518,62,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0500,69,Female,Other,Former,4A,,,1.1,No,Group-1
+DLCS_1519,74,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0501,62,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0786,66,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0502,68,Male,Caucasian/White,Current,3,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-1
+DLCS_0770,78,Female,Other,Current,3,,,1.0,Yes,Group-1
+DLCS_1315,71,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1853,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_0771,75,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_0503,75,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1520,77,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1232,69,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1854,68,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1233,63,Female,Caucasian/White,Former,4X,,,1.0,Yes,Group-2
+DLCS_0504,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0505,57,Female,Caucasian/White,Current,2,Cancer DX between 1 and 2 years of screening,0.0,1.1,Yes,Group-1
+DLCS_1234,65,Female,Black or African American,Unknown,3,,,1.1,Yes,Group-1
+DLCS_1521,71,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0772,73,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1522,64,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0136,73,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1855,56,Male,Other,Former,4A,,,1.1,No,Group-1
+DLCS_0506,55,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0507,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0508,61,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0509,60,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0510,58,Female,Other,Former,4A,,,1.1,No,Group-3
+DLCS_0511,70,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0512,67,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0513,67,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1523,60,Male,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0514,67,Female,Black or African American,Former,4X,,,1.1,Yes,Group-1
+DLCS_1524,62,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1856,58,Female,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1525,65,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1857,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1235,69,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-2
+DLCS_1858,63,Female,Caucasian/White,Current,4A,Cancer DX between 1 and 2 years of screening,1.0,1.1,No,Group-1
+DLCS_0515,74,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0516,63,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1526,58,Female,Caucasian/White,Current,2,Cancer DX between 1 and 2 years of screening,0.0,1.0,Yes,Group-1
+DLCS_1236,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0517,69,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0518,76,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_0519,64,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0520,55,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1237,70,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1859,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1860,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0521,60,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1238,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1564,58,Female,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0522,75,Female,Caucasian/White,Unknown,3,,,1.1,No,Group-2
+DLCS_1861,61,Male,Caucasian/White,Current,4X,,,1.1,No,Group-1
+DLCS_1239,74,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1862,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0523,58,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-3
+DLCS_1863,68,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-2
+DLCS_0524,79,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0525,72,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-2
+DLCS_1105,71,Female,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_1864,70,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1865,68,Female,Black or African American,Current,3,,,1.1,No,Group-2
+DLCS_1240,70,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0526,59,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-1
+DLCS_0527,68,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0528,60,Female,Black or African American,Former,4B,,,1.1,No,Group-1
+DLCS_0529,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0530,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1527,71,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1241,59,Male,Other,Current,4A,,,1.1,No,Group-1
+DLCS_0801,61,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0531,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0773,64,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-2
+DLCS_0532,66,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0533,55,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1866,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1867,58,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1528,68,Male,Black or African American,Current,3,,,1.1,No,Group-2
+DLCS_1529,55,Male,Black or African American,Current,4A,,,1.0,Yes,Group-2
+DLCS_1242,64,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0534,70,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0535,70,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1868,73,Male,Caucasian/White,Former,4B,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-1
+DLCS_1869,67,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0536,69,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1243,63,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-2
+DLCS_1870,71,Male,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_1244,60,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1245,72,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0537,61,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1530,73,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1246,57,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_0538,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1247,60,Male,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_0539,68,Female,Caucasian/White,Former,1,,,1.1,No,Group-1
+DLCS_0540,59,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1248,71,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1871,63,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0221,74,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0541,71,Male,Other,Former,2,,,1.1,Yes,Group-1
+DLCS_1872,65,Female,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_1566,60,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1249,69,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1250,62,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1251,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0542,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1252,58,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0543,62,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_0544,72,Male,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0545,60,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1253,64,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1254,63,Female,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0774,57,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1873,68,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1255,74,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0546,70,Male,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0547,64,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0811,60,Male,Black or African American,Current,4A,,,1.0,Yes,Group-4
+DLCS_1874,72,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1875,70,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1876,56,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0548,69,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0775,75,Male,Caucasian/White,Current,4B,,,1.1,No,Group-4
+DLCS_1531,70,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0776,65,Male,Other,Former,4B,,,1.1,No,Group-4
+DLCS_0777,59,Female,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_1877,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1878,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1879,65,Male,Caucasian/White,Former,4B,,,1.1,No,Group-4
+DLCS_0549,60,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0550,61,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1880,67,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0551,70,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1532,76,Male,Other,Former,2,,,1.1,No,Group-1
+DLCS_0552,74,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1881,74,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0553,59,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0554,61,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0555,73,Female,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1882,72,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_0778,72,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1533,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0556,62,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0779,66,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_0557,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0802,66,Male,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1256,69,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1257,75,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1324,59,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1883,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1258,58,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0558,58,Female,Black or African American,Former,2,,,1.1,No,Group-2
+DLCS_0559,72,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1325,77,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_0560,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0561,68,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1259,74,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1260,67,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1534,68,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0562,60,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1884,75,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1261,64,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0563,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0564,69,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1262,62,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0565,60,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1263,62,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0566,76,Male,Other,Former,2,,,1.1,No,Group-1
+DLCS_1264,71,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1535,69,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1536,64,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0567,64,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1885,71,Female,Black or African American,Current,3,,,1.1,Yes,Group-2
+DLCS_1265,60,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0568,71,Male,Caucasian/White,Unknown,2,,,1.1,Yes,Group-1
+DLCS_0569,67,Female,Other,Former,3,,,1.1,Yes,Group-1
+DLCS_1886,72,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0570,58,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0571,69,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0572,57,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1266,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1567,70,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0573,66,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0810,70,Female,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_1887,65,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0574,59,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1888,75,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0575,76,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0576,73,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1889,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0577,71,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1121,66,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-3
+DLCS_0579,62,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0580,58,Male,Caucasian/White,Current,4A,,,1.1,No,Group-2
+DLCS_1890,65,Female,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0581,56,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1891,73,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1892,76,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-3
+DLCS_1893,67,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1537,63,Male,Caucasian/White,Current,1,,,1.0,Yes,Group-1
+DLCS_0582,60,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1538,78,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0583,69,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1326,70,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-4
+DLCS_0584,78,Female,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_1267,62,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1894,68,Male,Caucasian/White,Unknown,3,,,1.1,Yes,Group-1
+DLCS_1268,57,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0585,60,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0586,77,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1568,69,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_1895,73,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1269,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1896,69,Male,Caucasian/White,Current,3,,,1.1,No,Group-3
+DLCS_0587,72,Female,Caucasian/White,Unknown,3,,,1.1,Yes,Group-3
+DLCS_1897,59,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0588,58,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1898,65,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_1899,66,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0589,63,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0590,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0591,73,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0592,66,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1900,73,Female,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-4
+DLCS_0593,57,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0780,69,Male,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_1317,70,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1901,72,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0825,76,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1572,72,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1902,60,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1903,63,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_0826,73,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-2
+DLCS_1049,69,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-4
+DLCS_0595,73,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0827,68,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1904,77,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1905,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1573,65,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1333,75,Female,Black or African American,Former,4B,,,1.1,No,Group-2
+DLCS_1050,71,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0596,60,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_0597,68,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1906,71,Male,Other,Former,2,Cancer DX between 1 and 2 years of screening,0.0,1.1,Yes,Group-1
+DLCS_1907,61,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1330,61,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1908,71,Female,Black or African American,Current,4A,,,1.1,Yes,Group-1
+DLCS_1334,57,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0828,60,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1909,58,Female,Caucasian/White,Former,4B,,,1.1,Yes,Group-2
+DLCS_0829,57,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0830,59,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0831,71,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1910,74,Male,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_1574,71,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1335,57,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0832,68,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1911,70,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0599,77,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1336,77,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0833,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1912,71,Male,Black or African American,Former,3,,,1.0,Yes,Group-3
+DLCS_0600,75,Male,Caucasian/White,Former,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_1913,67,Female,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1337,77,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0834,72,Male,Caucasian/White,Former,4X,,,1.1,Yes,Group-1
+DLCS_0835,75,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1047,76,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_1411,66,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-4
+DLCS_0836,66,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1338,66,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0837,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0838,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0601,61,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_0602,56,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1539,71,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0603,62,Male,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_1914,58,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0604,72,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-2
+DLCS_0605,59,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0809,73,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-4
+DLCS_1270,77,Male,Caucasian/White,Never,2,,,1.0,Yes,Group-1
+DLCS_0839,73,Male,Caucasian/White,Current,2,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_0606,70,Male,Black or African American,Former,4A,,,1.0,Yes,Group-1
+DLCS_1540,71,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-2
+DLCS_0607,69,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1915,63,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-3
+DLCS_1916,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1917,66,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0608,59,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0609,73,Female,Caucasian/White,Current,4X,,,1.0,Yes,Group-1
+DLCS_0610,66,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1318,67,Female,Black or African American,Former,3,,,1.1,No,Group-2
+DLCS_1329,74,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1271,67,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_0611,66,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-4
+DLCS_0612,58,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0613,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0614,74,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0615,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0616,59,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0617,72,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0618,65,Female,Caucasian/White,Current,1,,,1.1,Yes,Group-1
+DLCS_0619,68,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1918,75,Male,Black or African American,Current,4B,,,1.1,Yes,Group-1
+DLCS_0620,76,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_1919,71,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1920,63,Male,Other,Unknown,2,,,1.0,Yes,Group-1
+DLCS_1541,63,Female,Caucasian/White,Current,2,Cancer DX between 1 and 2 years of screening,0.0,1.1,Yes,Group-1
+DLCS_1328,70,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0621,74,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1272,75,Female,Caucasian/White,Former,4X,,,1.0,Yes,Group-1
+DLCS_1921,71,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-3
+DLCS_0781,57,Male,Black or African American,Current,3,,,1.1,Yes,Group-2
+DLCS_1542,71,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0635,67,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0623,57,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1327,56,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_1543,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1922,62,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1923,62,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1924,59,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_0624,75,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1925,59,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0625,58,Male,Black or African American,Current,2,,,1.1,No,Group-3
+DLCS_1273,58,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1544,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0626,76,Female,Black or African American,Current,2,Cancer DX within 1 year of screening,0.0,1.1,Yes,Group-1
+DLCS_0627,70,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1926,58,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0628,75,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0629,65,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0630,60,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1927,69,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1316,60,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1545,75,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0631,69,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0632,69,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,0.0,1.1,No,Group-1
+DLCS_0633,63,Female,Caucasian/White,Current,1,,,1.0,Yes,Group-1
+DLCS_1339,72,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1928,68,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1058,77,Male,Black or African American,Former,4A,,,1.0,Yes,Group-4
+DLCS_0840,58,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1929,62,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0841,79,Female,Caucasian/White,Current,4B,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_0842,72,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1930,66,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0634,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1057,67,Female,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_0843,75,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1340,59,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_1931,79,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0844,60,Female,Other,Current,4A,,,1.0,Yes,Group-1
+DLCS_0845,64,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0846,56,Male,Caucasian/White,Current,4B,,,1.0,Yes,Group-4
+DLCS_1575,61,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1341,75,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1932,62,Female,Other,Current,2,,,1.0,Yes,Group-1
+DLCS_1933,66,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0847,59,Female,Caucasian/White,Current,4X,,,1.0,Yes,Group-1
+DLCS_1415,64,Female,Caucasian/White,Current,4B,,,1.0,Yes,Group-4
+DLCS_1342,72,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_1934,73,Female,Black or African American,Former,4A,,,1.1,No,Group-2
+DLCS_1056,81,Male,Caucasian/White,Former,4X,,,1.0,Yes,Group-4
+DLCS_0848,71,Male,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1055,67,Female,Black or African American,Former,4B,,,1.0,Yes,Group-4
+DLCS_1570,65,Male,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_1576,66,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1935,75,Female,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_1936,58,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0636,75,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0849,66,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1343,73,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-2
+DLCS_0637,65,Female,Other,Former,2,,,1.1,Yes,Group-1
+DLCS_1937,56,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0850,68,Female,Caucasian/White,Unknown,4B,,,1.1,Yes,Group-2
+DLCS_1048,58,Male,Caucasian/White,Unknown,4X,,,1.0,Yes,Group-2
+DLCS_1577,75,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0851,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0852,60,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1344,71,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0853,57,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1345,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1578,79,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0854,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0855,68,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0638,70,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1613,66,Female,Black or African American,Current,2,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1579,75,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1938,61,Female,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_1580,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0856,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1346,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0857,56,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0858,70,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0859,72,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0860,57,Female,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1939,66,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-4
+DLCS_1347,72,Male,Other,Unknown,2,,,1.1,No,Group-1
+DLCS_0639,57,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0640,72,Female,Black or African American,Current,4A,,,1.1,No,Group-2
+DLCS_0861,61,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1940,60,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1941,67,Male,Caucasian/White,Former,4B,,,1.1,No,Group-4
+DLCS_0862,66,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0863,78,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0864,61,Male,Black or African American,Unknown,2,,,1.1,No,Group-2
+DLCS_1581,67,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0865,57,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,0.0,1.1,Yes,Group-1
+DLCS_0866,78,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1582,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1942,68,Female,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-4
+DLCS_0641,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1943,78,Male,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1275,63,Male,Black or African American,Former,2,,,1.1,No,Group-2
+DLCS_1348,74,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0867,58,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1944,76,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0868,69,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0642,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0869,71,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1583,72,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1584,73,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0870,66,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0871,67,Female,Caucasian/White,Unknown,4A,,,1.0,Yes,Group-1
+DLCS_0872,77,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0873,58,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0874,59,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-2
+DLCS_0643,75,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0875,69,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0876,62,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1585,65,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_0782,71,Female,Black or African American,Current,4X,,,1.0,Yes,Group-2
+DLCS_1945,66,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0644,77,Male,Caucasian/White,Current,4B,,,1.0,Yes,Group-2
+DLCS_1349,69,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_0645,74,Female,Caucasian/White,Current,3,,,1.1,No,Group-2
+DLCS_1586,62,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1350,74,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0877,67,Female,Black or African American,Current,4A,,,1.0,Yes,Group-1
+DLCS_1412,71,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-4
+DLCS_0878,67,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0646,73,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1351,64,Male,Other,Unknown,2,,,1.1,Yes,Group-1
+DLCS_1587,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1588,61,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0879,59,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0880,65,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_0881,71,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0882,66,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1589,68,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1946,61,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1947,61,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_1352,63,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1948,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0883,66,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0884,76,Male,Black or African American,Current,4X,,,1.1,Yes,Group-2
+DLCS_0647,62,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0885,58,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0886,68,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_0887,71,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1949,63,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-4
+DLCS_1353,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0888,59,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-2
+DLCS_0889,78,Female,Caucasian/White,Former,4B,,,1.1,No,Group-3
+DLCS_1950,61,Female,Caucasian/White,Current,3,Cancer DX within 1 year of screening,0.0,1.1,Yes,Group-3
+DLCS_1951,68,Female,Black or African American,Current,4B,,,1.0,Yes,Group-1
+DLCS_1952,75,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-4
+DLCS_0890,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1354,73,Female,Black or African American,Current,4A,,,1.1,No,Group-3
+DLCS_1355,73,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0891,79,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1953,66,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1590,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1954,57,Male,Black or African American,Current,2,,,1.1,Yes,Group-2
+DLCS_1356,56,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1357,59,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_0892,56,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1054,69,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_0893,73,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1611,63,Female,Black or African American,Former,4A,,,1.1,Yes,Group-1
+DLCS_0894,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0895,70,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0896,65,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1955,45,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0897,71,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-1
+DLCS_0898,69,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0899,71,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1956,63,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1957,58,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0648,64,Female,Black or African American,Current,4A,,,1.0,Yes,Group-3
+DLCS_0900,60,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1358,78,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_0901,65,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1958,75,Female,Caucasian/White,Unknown,4A,,,1.0,Yes,Group-1
+DLCS_1959,74,Female,Caucasian/White,Unknown,4A,,,1.1,Yes,Group-1
+DLCS_1960,71,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-3
+DLCS_0902,58,Male,Other,Former,3,,,1.0,Yes,Group-1
+DLCS_0903,74,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0904,63,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1961,78,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1962,76,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0905,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0906,58,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0907,57,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_1963,71,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-3
+DLCS_1964,66,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1965,72,Female,Caucasian/White,Former,4A,,,1.1,No,Group-3
+DLCS_0908,76,Male,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0649,74,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0909,77,Male,Caucasian/White,Unknown,4B,,,1.1,Yes,Group-4
+DLCS_1359,67,Male,Caucasian/White,Former,4X,,,1.1,No,Group-4
+DLCS_1966,63,Male,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_0910,73,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0911,72,Male,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_1360,77,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1361,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1967,70,Male,Caucasian/White,Former,4B,Cancer DX 2 years after screening,0.0,1.0,Yes,Group-1
+DLCS_0912,68,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1362,73,Female,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_1968,59,Male,Other,Current,4A,,,1.0,Yes,Group-4
+DLCS_1363,69,Male,Caucasian/White,Unknown,4A,,,1.1,No,Group-1
+DLCS_0913,66,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1969,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1591,77,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0650,69,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_0914,65,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1364,68,Female,Caucasian/White,Current,3,Cancer DX between 1 and 2 years of screening,1.0,1.0,Yes,Group-1
+DLCS_0915,74,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1970,62,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0916,50,Female,Caucasian/White,Unknown,3,,,1.0,Yes,Group-1
+DLCS_0917,66,Male,Black or African American,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0918,70,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1592,68,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0919,65,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_0824,72,Male,Caucasian/White,Unknown,3,,,1.0,Yes,Group-4
+DLCS_0920,64,Male,Other,Current,4A,,,1.0,Yes,Group-1
+DLCS_1365,69,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0921,75,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_0922,56,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1971,74,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0923,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0924,59,Male,Other,Current,3,Cancer DX 2 years after screening,1.0,1.0,Yes,Group-1
+DLCS_1546,60,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0925,59,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1547,67,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0926,68,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1366,60,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_0927,58,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1972,59,Female,Caucasian/White,Former,4X,,,1.1,No,Group-1
+DLCS_0928,59,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1367,74,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0929,73,Male,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_1973,59,Female,Caucasian/White,Current,3,,,1.0,Yes,Group-4
+DLCS_1974,69,Male,Caucasian/White,Current,1,,,1.0,Yes,Group-1
+DLCS_1975,73,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0930,57,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1976,64,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0932,68,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0933,59,Male,Other,Current,2,,,1.1,No,Group-1
+DLCS_0651,72,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0934,60,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1977,68,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_0935,65,Male,Other,Former,4A,,,1.0,Yes,Group-1
+DLCS_1978,58,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0936,77,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0937,60,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0938,70,Male,Other,Former,4A,,,1.1,Yes,Group-1
+DLCS_0939,56,Female,Other,Current,3,,,1.1,Yes,Group-1
+DLCS_1332,61,Male,Caucasian/White,Former,3,,,1.1,No,Group-4
+DLCS_0940,61,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0941,64,Male,Black or African American,Current,4B,,,1.1,Yes,Group-3
+DLCS_0942,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1368,67,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1276,74,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1369,77,Female,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_1979,65,Female,Other,Former,2,,,1.1,No,Group-1
+DLCS_0943,63,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1593,76,Female,Black or African American,Former,2,,,1.1,No,Group-2
+DLCS_0944,74,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0945,63,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1370,70,Female,Other,Former,3,,,1.0,Yes,Group-1
+DLCS_0946,68,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0947,60,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0948,64,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1594,76,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0949,75,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1595,75,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1277,69,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1596,68,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1980,71,Female,Other,Current,4B,,,1.1,No,Group-1
+DLCS_1278,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1371,70,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1372,59,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0950,78,Male,Other,Former,2,,,1.0,Yes,Group-2
+DLCS_1373,73,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0951,74,Female,Caucasian/White,Former,2,Cancer DX within 1 year of screening,0.0,1.1,No,Group-1
+DLCS_0952,64,Male,Other,Current,4B,Cancer DX within 1 year of screening,0.0,1.1,No,Group-2
+DLCS_1374,65,Female,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_0953,70,Male,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1375,72,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0954,63,Female,Black or African American,Former,3,,,1.1,No,Group-2
+DLCS_0955,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0956,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0957,74,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0958,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0959,72,Male,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_0652,67,Male,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_1597,68,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0960,69,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0961,77,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-3
+DLCS_0962,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1279,66,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0963,70,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0964,72,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1376,61,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-4
+DLCS_0965,71,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1981,61,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0966,55,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0967,69,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_0968,62,Male,Black or African American,Former,4B,,,1.0,Yes,Group-4
+DLCS_0969,57,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1982,71,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0970,59,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0971,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1598,61,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0972,73,Female,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1377,72,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_1548,65,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_1983,67,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0973,72,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0974,57,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-2
+DLCS_0975,62,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-2
+DLCS_1984,68,Male,Caucasian/White,Current,4B,,,1.0,Yes,Group-2
+DLCS_0976,70,Male,Caucasian/White,Unknown,3,,,1.1,No,Group-1
+DLCS_1610,66,Male,Black or African American,Former,4B,,,1.1,Yes,Group-4
+DLCS_0977,60,Female,Caucasian/White,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0978,56,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0979,66,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0980,75,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1985,59,Male,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0981,55,Female,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1986,57,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-2
+DLCS_1987,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1988,71,Male,Caucasian/White,Former,4A,,,1.1,No,Group-4
+DLCS_1280,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0982,76,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0983,66,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1053,58,Male,Black or African American,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-4
+DLCS_1378,67,Male,Caucasian/White,Unknown,2,,,1.0,Yes,Group-2
+DLCS_1599,57,Male,Black or African American,Current,3,,,1.0,Yes,Group-3
+DLCS_0653,71,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0984,65,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0654,71,Female,Black or African American,Current,4B,,,1.0,Yes,Group-1
+DLCS_1989,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1379,77,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1990,79,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-4
+DLCS_0985,67,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1380,62,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1381,74,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-4
+DLCS_1549,66,Female,Black or African American,Former,2,,,1.1,Yes,Group-2
+DLCS_1550,76,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1991,61,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1382,61,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1992,66,Male,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1993,64,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0986,62,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_1600,63,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_0987,57,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1383,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_0988,68,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0656,65,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_0989,66,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0990,67,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_0991,63,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1994,71,Female,Other,Former,2,,,1.0,Yes,Group-1
+DLCS_0992,76,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1384,61,Male,Black or African American,Unknown,2,,,1.0,Yes,Group-1
+DLCS_1995,55,Female,Other,Current,2,,,1.1,No,Group-2
+DLCS_1385,66,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1386,62,Male,Other,Current,2,,,1.0,Yes,Group-1
+DLCS_1996,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1387,59,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1601,70,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1388,75,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0993,69,Male,Other,Former,3,,,1.1,Yes,Group-2
+DLCS_0994,56,Male,Other,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0995,74,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0996,62,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0997,66,Female,Caucasian/White,Unknown,4X,,,1.0,Yes,Group-1
+DLCS_0998,68,Male,Other,Unknown,2,,,1.0,Yes,Group-1
+DLCS_0999,78,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1997,63,Male,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_1389,71,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1000,72,Male,Black or African American,Current,4B,,,1.1,Yes,Group-1
+DLCS_0657,69,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1001,77,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1390,69,Female,Black or African American,Former,4B,,,1.1,No,Group-1
+DLCS_1281,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1998,77,Male,Black or African American,Former,3,,,1.0,Yes,Group-2
+DLCS_1002,68,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1999,68,Female,Black or African American,Former,4B,,,1.1,No,Group-1
+DLCS_1391,69,Male,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1282,60,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1392,57,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-2
+DLCS_1393,55,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1003,72,Male,Caucasian/White,Former,4A,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_1004,72,Male,Caucasian/White,Former,4A,,,1.1,Yes,Group-4
+DLCS_1394,68,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_1602,59,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1395,71,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1005,60,Female,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1006,63,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1007,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2000,64,Male,Caucasian/White,Current,3,Cancer DX within 1 year of screening,0.0,1.1,Yes,Group-1
+DLCS_0658,68,Male,Caucasian/White,Current,4A,,,1.0,Yes,Group-1
+DLCS_1008,60,Female,Caucasian/White,Unknown,2,,,1.1,Yes,Group-1
+DLCS_1009,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1010,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0659,66,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_1011,68,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1012,65,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-2
+DLCS_1013,59,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-1
+DLCS_1396,62,Male,Caucasian/White,Current,4X,,,1.1,Yes,Group-1
+DLCS_1014,61,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2001,65,Male,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_0660,67,Male,Black or African American,Current,4X,,,1.1,No,Group-1
+DLCS_2002,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2003,63,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1414,75,Female,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_1015,63,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1016,68,Female,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_2004,60,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_1017,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0661,65,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0662,66,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1397,76,Male,Caucasian/White,Current,4B,,,1.1,No,Group-4
+DLCS_2005,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1018,61,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2006,61,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1551,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1398,62,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0663,67,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0664,69,Male,Black or African American,Former,2,,,1.0,Yes,Group-2
+DLCS_1019,72,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2007,63,Female,Black or African American,Former,3,,,1.1,No,Group-1
+DLCS_1020,60,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_1399,57,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0665,72,Male,Caucasian/White,Current,4B,,,1.0,Yes,Group-1
+DLCS_2008,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2009,70,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1400,58,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1021,57,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-4
+DLCS_1022,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1401,63,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2010,67,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_2011,67,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1052,62,Male,Caucasian/White,Unknown,4B,,,1.1,No,Group-4
+DLCS_2012,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1023,63,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1024,61,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1612,65,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_1402,55,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2013,68,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1403,69,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1025,67,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1603,57,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_2014,68,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1026,61,Male,Black or African American,Current,4A,,,1.1,No,Group-1
+DLCS_2015,68,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_1027,62,Female,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1028,67,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_1029,63,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1604,77,Male,Other,Current,4A,,,1.1,Yes,Group-1
+DLCS_1030,65,Male,Caucasian/White,Current,4B,,,1.1,No,Group-1
+DLCS_0666,71,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_2016,73,Male,Black or African American,Unknown,4A,,,1.1,No,Group-1
+DLCS_1031,69,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_2017,58,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1032,60,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_2018,59,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1051,70,Female,Caucasian/White,Current,4X,,,1.1,No,Group-4
+DLCS_1404,68,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1405,71,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1033,70,Male,Black or African American,Former,3,,,1.1,Yes,Group-1
+DLCS_2019,64,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1034,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_2020,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1035,58,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1605,55,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2021,75,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_0668,65,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0669,57,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_2022,77,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2023,71,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_1036,71,Male,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_1606,60,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1607,61,Male,Caucasian/White,Unknown,4A,,,1.1,No,Group-1
+DLCS_1037,70,Male,Other,Current,2,,,1.1,No,Group-2
+DLCS_1406,57,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1038,71,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_2024,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1407,62,Male,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_1408,59,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1409,62,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1608,72,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1039,70,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0670,71,Female,Black or African American,Current,2,,,1.1,Yes,Group-1
+DLCS_2025,77,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1040,65,Male,Caucasian/White,Former,3,,,1.1,No,Group-2
+DLCS_1041,57,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0671,67,Male,Caucasian/White,Current,3,,,1.0,Yes,Group-1
+DLCS_1042,75,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1043,58,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0672,60,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1044,78,Female,Caucasian/White,Unknown,4A,,,1.1,No,Group-1
+DLCS_1609,71,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2026,67,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0673,58,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2027,70,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0674,58,Female,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0675,58,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1045,68,Male,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,No,Group-4
+DLCS_1283,58,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_1284,63,Female,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_0676,74,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_1285,59,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0808,62,Female,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0677,66,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1552,71,Female,Black or African American,Current,4B,,,1.1,Yes,Group-3
+DLCS_0678,70,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1286,71,Male,Black or African American,Former,4A,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_2028,57,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_1287,68,Female,Caucasian/White,Former,4A,,,1.1,No,Group-2
+DLCS_0679,71,Male,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-3
+DLCS_0680,63,Female,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_2029,66,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0681,58,Male,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1288,63,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_1553,67,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0683,67,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_1289,55,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2030,74,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_2031,68,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2032,65,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_1290,72,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0684,75,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0685,57,Female,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_0686,73,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0687,76,Male,Black or African American,Current,4B,,,1.1,Yes,Group-1
+DLCS_1291,65,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_2033,72,Female,Black or African American,Former,3,,,1.1,No,Group-2
+DLCS_0688,73,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0689,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0690,77,Female,Black or African American,Former,3,,,1.1,No,Group-3
+DLCS_0691,80,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0692,67,Male,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_0693,68,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0822,60,Male,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_0694,76,Female,Caucasian/White,Unknown,4B,,,1.1,No,Group-1
+DLCS_0695,60,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.1,No,Group-1
+DLCS_2034,77,Female,Black or African American,Current,3,,,1.1,Yes,Group-4
+DLCS_1292,57,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0807,68,Female,Caucasian/White,Current,4A,Cancer DX within 1 year of screening,1.0,1.1,No,Group-4
+DLCS_0696,67,Female,Black or African American,Former,2,,,1.1,Yes,Group-2
+DLCS_0697,57,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-2
+DLCS_0698,71,Female,Black or African American,Current,4B,,,1.0,Yes,Group-1
+DLCS_2035,75,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1293,62,Male,Caucasian/White,Current,2,,,1.1,No,Group-2
+DLCS_2036,67,Male,Caucasian/White,Former,4B,,,1.1,Yes,Group-1
+DLCS_0699,71,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0700,63,Female,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_1554,73,Female,Black or African American,Current,3,,,1.0,Yes,Group-2
+DLCS_0701,64,Female,Black or African American,Current,2,,,1.0,Yes,Group-2
+DLCS_0702,72,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_1294,60,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0703,57,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_0704,66,Male,Caucasian/White,Former,4A,,,1.1,No,Group-1
+DLCS_0705,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1295,71,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-3
+DLCS_0706,70,Male,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_1555,67,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0806,71,Male,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-4
+DLCS_1296,59,Female,Caucasian/White,Current,2,Cancer DX between 1 and 2 years of screening,0.0,1.0,Yes,Group-1
+DLCS_0707,56,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_2037,59,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_2038,62,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_2039,59,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-2
+DLCS_0708,69,Female,Black or African American,Current,3,,,1.1,Yes,Group-1
+DLCS_0709,65,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0710,59,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-2
+DLCS_0711,56,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_2040,64,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0712,71,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_2041,65,Female,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_2042,62,Female,Caucasian/White,Current,4A,,,1.1,No,Group-2
+DLCS_0714,68,Female,Caucasian/White,Current,4A,,,1.1,Yes,Group-1
+DLCS_0715,60,Female,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0716,60,Female,Black or African American,Unknown,3,,,1.1,No,Group-1
+DLCS_0717,57,Female,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_2043,76,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0718,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0719,69,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_1297,67,Male,Black or African American,Former,4A,,,1.1,No,Group-1
+DLCS_0720,59,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2044,73,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1298,71,Female,Black or African American,Current,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1556,67,Male,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_2045,59,Female,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_0721,68,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_1557,58,Female,Caucasian/White,Unknown,2,,,1.1,No,Group-1
+DLCS_0722,65,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0723,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_2046,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-3
+DLCS_0724,69,Female,Caucasian/White,Current,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_2047,62,Female,Other,Former,2,,,1.1,No,Group-2
+DLCS_0725,67,Female,Black or African American,Former,3,,,1.1,No,Group-1
+DLCS_0726,72,Female,Caucasian/White,Former,4B,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-1
+DLCS_2048,58,Female,Black or African American,Current,4X,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_2049,58,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_0727,68,Male,Other,Never,2,,,1.1,Yes,Group-1
+DLCS_0805,64,Male,Caucasian/White,Current,3,,,1.1,No,Group-4
+DLCS_2050,61,Male,Caucasian/White,Former,3,,,1.1,Yes,Group-2
+DLCS_2051,72,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0728,74,Male,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0729,73,Female,Caucasian/White,Current,4B,Cancer DX within 1 year of screening,1.0,1.1,Yes,Group-1
+DLCS_0730,74,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0804,64,Male,Black or African American,Current,3,,,1.1,No,Group-4
+DLCS_0731,77,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0732,68,Female,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_2052,75,Male,Caucasian/White,Former,3,Cancer DX 2 years after screening,0.0,1.1,Yes,Group-3
+DLCS_1299,76,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_0733,68,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0734,71,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0735,56,Female,Caucasian/White,Former,4X,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_1300,60,Male,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_0736,77,Female,Black or African American,Current,3,,,1.1,No,Group-1
+DLCS_1301,74,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_1558,63,Female,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2053,66,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-2
+DLCS_1559,70,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1302,65,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_0737,61,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1303,70,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0713,63,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0738,69,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-1
+DLCS_0739,64,Female,Other,Current,2,,,1.1,No,Group-1
+DLCS_0740,79,Male,Caucasian/White,Former,2,,,1.0,Yes,Group-1
+DLCS_0741,71,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_1304,61,Male,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_0742,73,Female,Caucasian/White,Former,2,,,1.1,No,Group-2
+DLCS_0743,78,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0744,65,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0745,70,Male,Black or African American,Current,2,,,1.1,No,Group-1
+DLCS_2054,60,Female,Black or African American,Unknown,2,,,1.1,No,Group-1
+DLCS_0746,69,Male,Caucasian/White,Former,4B,,,1.1,No,Group-1
+DLCS_0747,66,Male,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0748,73,Male,Caucasian/White,Current,4A,,,1.1,No,Group-4
+DLCS_0749,65,Male,Caucasian/White,Former,3,,,1.0,Yes,Group-1
+DLCS_1305,64,Male,Caucasian/White,Former,2,,,1.1,Yes,Group-1
+DLCS_0750,69,Female,Black or African American,Former,2,,,1.1,No,Group-1
+DLCS_0751,61,Female,Black or African American,Current,3,,,1.0,Yes,Group-1
+DLCS_2055,64,Male,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_1306,73,Male,Caucasian/White,Current,2,,,1.1,Yes,Group-1
+DLCS_2056,62,Female,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1307,63,Male,Other,Current,2,,,1.1,No,Group-1
+DLCS_0752,71,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_0753,57,Female,Black or African American,Current,1,,,1.0,Yes,Group-1
+DLCS_0754,67,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0755,72,Female,Black or African American,Current,2,,,1.1,No,Group-2
+DLCS_0756,71,Male,Caucasian/White,Current,3,,,1.1,Yes,Group-1
+DLCS_2057,69,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_0757,77,Female,Black or African American,Former,2,,,1.1,Yes,Group-1
+DLCS_1308,72,Male,Caucasian/White,Current,4B,,,1.1,No,Group-2
+DLCS_2058,65,Female,Caucasian/White,Current,4B,,,1.1,Yes,Group-1
+DLCS_1309,66,Female,Caucasian/White,Current,3,Cancer DX within 1 year of screening,1.0,1.0,Yes,Group-2
+DLCS_1310,76,Female,Black or African American,Current,2,,,1.0,Yes,Group-1
+DLCS_1560,74,Male,Caucasian/White,Former,4B,,,1.0,Yes,Group-1
+DLCS_0758,60,Male,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_0803,72,Female,Caucasian/White,Former,4A,,,1.0,Yes,Group-4
+DLCS_1311,73,Female,Caucasian/White,Current,3,,,1.1,No,Group-1
+DLCS_0759,66,Female,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_0760,73,Male,Black or African American,Former,3,,,1.0,Yes,Group-1
+DLCS_2059,67,Male,Caucasian/White,Former,3,,,1.1,No,Group-1
+DLCS_1312,73,Male,Caucasian/White,Former,2,,,1.1,No,Group-1
+DLCS_1410,64,Female,Caucasian/White,Current,4A,,,1.1,No,Group-1
+DLCS_1413,77,Female,Caucasian/White,Former,3,,,1.1,Yes,Group-4
+DLCS_1046,83,Female,Caucasian/White,Current,2,,,1.1,No,Group-1
+DLCS_0422,62,Female,Black or African American,Former,2,,,1.0,Yes,Group-1
+DLCS_2060,65,Male,Caucasian/White,Current,2,,,1.0,Yes,Group-1
+DLCS_2061,67,Female,Black or African American,Current,4X,,,1.0,Yes,Group-2
